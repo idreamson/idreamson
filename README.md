@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idreamson
-- 👀 I’m interested in coding and earning new technologies  
+- 👀 I’m interested in coding and learning new technologies  
 - 🌱 I’m currently learning python  
 - 💞️ I’m looking to collaborate on analytics   
 - 📫 How to reach me dev.will66@gmail.com
